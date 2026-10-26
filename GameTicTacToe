@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 char papan[3][3] = {
